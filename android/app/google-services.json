@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707104488440",
+    "project_id": "notesapp-cd90b",
+    "storage_bucket": "notesapp-cd90b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707104488440:android:91ff31a11358ab739a740d",
+        "android_client_info": {
+          "package_name": "com.example.googlenotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlEPivtArnwzcf04FSbWCbn4XB1jyPIK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
